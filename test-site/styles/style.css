@@ -1,0 +1,42 @@
+html {
+ font-size: 10px;
+  font-family: 'Modak', cursive;
+    color: grey;
+}
+
+h1 {
+    margin: 0;
+  padding: 20px 0;    
+  color: grey;
+  font-size: 30px;
+  text-align: center;
+  text-shadow: 3px 3px 2px #ADFFF1;
+}
+
+h2, h3, h4 {
+    font-size: 20px;
+    text-align: center;
+}
+
+img { 
+display: block;
+margin: 0 auto;
+}
+
+p, li {
+  font-size: 16px;    
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+html {
+  background-color: #11F7D1;
+}
+
+body {
+  width: 400px;
+  margin: 0 auto;
+  background-color: #FF9500;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
